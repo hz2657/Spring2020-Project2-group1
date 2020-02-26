@@ -14,7 +14,7 @@ Term: Spring 2020
 + Shiny Link : 
 
 + **Team Members**: 
-        + Feng, Kangli (Team Leader)
+    + Feng, Kangli (Team Leader)
 	+ Du, Jinxiao
 	+ Zhu, Huize
 	+ Lyu, Wenfeng
