@@ -21,14 +21,15 @@ Term: Spring 2020
 	+ Chen, Shenhan (Presenter)
 
 + **Project summary**: 
-In a city of cramped living quarters, fifth-floor walk-ups and limited access to outdoor space, you’d think pets would be a tough sell for New York City residents. Yet roughly 425,000 dogs live in New York City – more dogs than there are people in Oakland, CA.
 
-To develop this project, we referenced the data on NYC Open Data, as well as other open data sources such as Github and Kaggle, to uncover the most popular dog breeds and names in NYC neighborhoods, and the best neighborhoods in New York City for dogs and their faithful owners. Moreover, we also included the statistical analysis of the most dog bites occurence in NYC neighborhoods for those people who want to leave in the neighborhoods with fewer dogs. Our project goal is to help you get extensive dog-related information around NYC's neighborhoods.
+In a city of cramped living quarters, fifth-floor walk-ups and limited access to outdoor space, you may think pets would be a tough sell for New York City residents. Yet roughly 425,000 dogs live in New York City – more dogs than there are people in Oakland, CA.
+
+To develop this project, we referenced the data on NYC Open Data, as well as other open data sources such as Google, Github and Kaggle, to uncover the most popular dog breeds and names in NYC neighborhoods, and the best neighborhoods in New York City for dogs and their faithful owners. Moreover, we included the statistical analysis of the most dog bites occurence in NYC neighborhoods for those people who want to live in the neighborhoods with fewer dogs. Our project goal is to help you get extensive dog-related information around NYC's neighborhoods.
 
 
 + **Contribution statement**:
 
-All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail as follows:
+All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail is as follows:
 
 	+ Du, Jinxiao: Finish the cluster points map of Dog Licenses and heatmap of Dog Licenses both by myself. Process the data of Dog Licenses and design the format of Map page. Besides, help other members debug.
 	
