@@ -1,9 +1,9 @@
 # Project 2: Shiny App Development
 
 ![screenshot](doc/figs/home1.png)
-![screenshot](doc/figs/dog.park1.png)
-![screenshot](doc/figs/dog.bite1.png)
-![screenshot](doc/figs/dog_stat1.png)
+![screenshot](doc/figs/dog.park1.JPG)
+![screenshot](doc/figs/dog.bite1.JPG)
+![screenshot](doc/figs/dog_stat1.JPG)
 
 
 ## NYC Neighborhoods Overview For Dogs
