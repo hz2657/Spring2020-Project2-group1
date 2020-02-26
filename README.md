@@ -16,7 +16,7 @@ Term: Spring 2020
 + **Team Members**: 
     + Feng, Kangli (Team Leader) [kf2616@columbia.edu](kf2616@columbia.edu)
 	+ Du, Jinxiao [jd3607@columbia.edu](jd3607@columbia.edu)
-	+ Zhu, Huize [hz2657@columbia.edu](hz2657@columbia.edu)
+	+ Zhu, Huizhe [hz2657@columbia.edu](hz2657@columbia.edu)
 	+ Lyu, Wenfeng [wl2733@columbia.edu](wl2733@columbia.edu)
 	+ Chen, Shenhan (Presenter) [sc4615@columbia.edu](sc4615@columbia.edu)
 
