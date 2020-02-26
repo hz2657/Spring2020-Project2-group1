@@ -150,11 +150,6 @@ shinyServer(function(input, output) {
     nearest_hosp = as.character(cleaned_hospital[indx_hosp, "Name"])
     distance_to_hosp = min(distance_hosp)
     
-    
-    
-    
-    # calculate the time to nearest park 
-    # according to wikipedia: avg people walking speed:  1.4 meters per second
     walk_min =  distance_to_park/(1.4*60)
     walk_min_hosp = distance_to_hosp/(1.4*60)
     
