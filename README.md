@@ -6,7 +6,7 @@
 ![screenshot](doc/figs/dog_stat1.JPG)
 
 
-## NYC Neighborhoods Overview For Dogs
+## Woof Woof: We Get Your Dogs Covered
 Term: Spring 2020
 
 + Team # 1
@@ -34,16 +34,20 @@ To develop this project, we referenced the data on NYC Open Data, as well as oth
 
 
 + **Contribution statement**:
-    + **Kangli Feng**: Designed the template for the Shiny App page including html files for `Home` and `About` page. Cleaned, tidied and visualized data of veterinary hospitals and dog runs area. Calculated and displayed estimated distance and time taken to the nearest hospital and park from any given location. Integrated and tidied other teammates’ work. 
+    + **Kangli Feng (Team Leader)**: Designed the template for the Shiny App page including html files for `Home` and `About` page. Cleaned, tidied and visualized data of veterinary hospitals and dog runs area. Calculated and displayed estimated distance and time taken to the nearest hospital and park from any given location. Integrated and tidied other teammates’ work. 
     + **Du, Jinxiao**: Finished the cluster points map of Dog Licenses and heatmap of Dog Licenses both by myself. Processed the data of Dog Licenses and design the format of Map page. Besides, help other members debug.
     + **Lyu, Wenfeng**: Data cleaning, design the statistics tab and the content format, including the popular nyc dog names by year bar chart, as well as the popular dog breed plotly bar chart. Write up the introduction & R markdown text files, and gathering interesting dog logo!
     + **Zhu, Huizhe**: Created heat map visualization; Monitored project flow and meeting agenda; Quality control, structuring and restructuring app's organization, text polishing; Data collection and Cleaning.
-    + **Chen, Shenhan:**: Data collecting and cleaning for dog bite records, created and generated statistical data summary, designing homepage; Presented project results to over 70 audience.
+    + **Chen, Shenhan (Presenter)**: Data collecting and cleaning for dog bite records, created and generated statistical data summary, designing homepage; Presented project results to over 70 audience.
 
 + **Data Sets Used**:
 
-We used data from NYC Open Data, as well as other open data sources from Google, Github, and Kaggle
-
+We used data from NYC Open Data, as well as other open data sources from Google, Github, and Kaggle. Here are some of data sets we used:
++ [Dog licences (Kaggle)](https://www.kaggle.com/puppygogo/nyc-active-dog-licenses)
++ [Dog bite data (NYC open data)](https://data.cityofnewyork.us/Health/DOHMH-Dog-Bite-Data/rsgh-akpg/data)
++ [Directory of Dog Runs and Off-Leash Areas(NYC open data)](https://data.cityofnewyork.us/Recreation/Directory-of-Dog-Runs-and-Off-Leash-Areas/ipbu-mtcs)
++ [NYC Dog Names(Kaggle)](https://www.kaggle.com/new-york-city/nyc-dog-names)
++ [Dog parks in NYC(Kaggle)](https://www.kaggle.com/new-york-city/dog-parks-of-nyc)
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
