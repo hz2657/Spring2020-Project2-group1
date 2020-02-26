@@ -58,6 +58,8 @@ proj/
 ├── data/
 ├── doc/
 └── output/
+└── rsconnect/
+└── www/
 ```
 
 Please see each subfolder for a README file.
