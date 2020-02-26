@@ -1,36 +1,48 @@
 # Project 2: Shiny App Development Version 2.0
 
-### [Project Description](doc/project2_desc.md)
+![screenshot](doc/figs/home.png)
+![screenshot](doc/figs/dog.park.png)
+![screenshot](doc/figs/dog.bite.png)
+![screenshot](doc/figs/dog_stat.png)
 
-![screenshot](doc/screenshot2.png)
 
-In this second project of GR5243 Applied Data Science, we develop a version 2.0 of an *Exploratory Data Analysis and Visualization* shiny app on a topic of your choice using [NYC Open Data](https://opendata.cityofnewyork.us/) or U.S. government open data released on the [data.gov](https://data.gov/) website. See [Project 2 Description](doc/project2_desc.md) for more details.  
+## NYC Neighborhoods Overview For Dogs
+Term: Spring 2020
 
-The **learning goals** for this project is:
++ Team # 1
 
-- business intelligence for data science
-- study legacy codes and further development
-- data cleaning
-- data visualization
-- systems development/design life cycle
-- shiny app/shiny server
++ Shiny Link : 
 
-*The above general statement about project 2 can be removed once you are finished with your project. It is optional.
++ **Team Members**: 
+	+ Du, Jinxiao
+	+ Feng, Kangli
+	+ Zhu, Huize
+	+ Lyu, Wenfeng
+	+ Chen, Shenhan (Presenter)
 
-## Project Title Lorem ipsum dolor sit amet
-Term: Fall 2019
++ **Project summary**: 
+In a city of cramped living quarters, fifth-floor walk-ups and limited access to outdoor space, you’d think pets would be a tough sell for New York City residents. Yet roughly 425,000 dogs live in New York City – more dogs than there are people in Oakland, CA.
 
-+ Team #
-+ **Projec title**: + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+To develop this project, we referenced the data on NYC Open Data, as well as other open data sources such as Github and Kaggle, to uncover the most popular dog breeds and names in NYC neighborhoods, and the best neighborhoods in New York City for dogs and their faithful owners. Moreover, we also included the statistical analysis of the most dog bites occurence in NYC neighborhoods for those people who want to leave in the neighborhoods with fewer dogs. Our project goal is to help you get extensive dog-related information around NYC's neighborhoods.
 
-+ **Project summary**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ **Contribution statement**:
 
-+ **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
+All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail as follows:
+
+	+ Du, Jinxiao: 
+	
+	+ Feng, Kangli:
+	
+	+ Zhu, Huize:
+	
+	+ Lyu, Wenfeng: Data cleaning, design the statistics tab and the content format, including the popular nyc dog names by year bar chart, as well as the popular dog breed plotly bar chart. Write up the introduction & R markdown text files, and gathering interesting dog logo!
+	
+	+ Chen, Shenhan:
+
++ **Data Sets Used**:
+
+We used data from NYC Open Data, as well as other open data sources from Github and Kaggle
+
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
