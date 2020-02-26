@@ -28,10 +28,10 @@ To develop this project, we referenced the data on NYC Open Data, as well as oth
 
 + **User guide**: 
 
-1. Click the "Dog parks & hospitals" tab, you can find the nearest dog parks to walk your dogs, with the walking distance and estimated transportation time available. Don't panic when your dog get sick, use our map to find the nearest dog hospitals.
-2. Click the "Dog Density Map" tab, in the 'Dog license map', you can find the dog license information distributed by area. In 'Dog Density Map', you can find the most dog friendly neighborhoods as well as the specific number of dogs in those areas. Click the 'Dog Bite Map', you can view information about the dog bites accidents by neighborhoods and check by time.
-3. Click the "Summary Statistics" tab, you can view the statistical results about NYC dogs' names and breeds. There are settings available for you to customize the plots. Scroll down and try them out!
-4. Other related news and articles can be found in the remaining tabs. Enjoy the journey with us.
+    + Click the "Dog parks & hospitals" tab, you can find the nearest dog parks to walk your dogs, with the walking distance and estimated transportation time available. Don't panic when your dog get sick, use our map to find the nearest dog hospitals.
+    + Click the "Dog Density Map" tab, in the 'Dog license map', you can find the dog license information distributed by area. In 'Dog Density Map', you can find the most dog friendly neighborhoods as well as the specific number of dogs in those areas. Click the 'Dog Bite Map', you can view information about the dog bites accidents by neighborhoods and check by time.
+    + Click the "Summary Statistics" tab, you can view the statistical results about NYC dogs' names and breeds. There are settings available for you to customize the plots. Scroll down and try them out!
+    + Other related news and articles can be found in the remaining tabs. Enjoy the journey with us.
 
 
 + **Contribution statement**:
