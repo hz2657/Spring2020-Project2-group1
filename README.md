@@ -1,9 +1,9 @@
 # Project 2: Shiny App Development
 
 ![screenshot](doc/figs/home1.png)
-![screenshot](doc/figs/dog.park.png)
-![screenshot](doc/figs/dog.bite.png)
-![screenshot](doc/figs/dog_stat.png)
+![screenshot](doc/figs/dog.park1.png)
+![screenshot](doc/figs/dog.bite1.png)
+![screenshot](doc/figs/dog_stat1.png)
 
 
 ## NYC Neighborhoods Overview For Dogs
@@ -31,13 +31,13 @@ To develop this project, we referenced the data on NYC Open Data, as well as oth
 
 All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail is as follows:
 
-	+ Du, Jinxiao: Finish the cluster points map of Dog Licenses and heatmap of Dog Licenses both by myself. Process the data of Dog Licenses and design the format of Map page. Besides, help other members debug.
+	+ Du, Jinxiao: Finished the cluster points map of Dog Licenses and heatmap of Dog Licenses both by myself. Processed the data of Dog Licenses and design the format of Map page. Besides, help other members debug.
 	
-	+ Feng, Kangli: Designed the template for the Shiny App page including html files for `Home` and `About` page. Cleaned, tidied and visualized data of veterinary hospitals and dog runs area. Calculated and displayed estimated distance and time taken to the nearest hospital and park from any given location. Integrated and tidied other teammates’ work.
-	
-	+ Zhu, Huizhe:Created heat map visualization; Monitored project flow and meeting agenda; Quality control, structuring and restructuring app's organization, text polishing; Data collection and Cleaning
+	+ Feng, Kangli: Designed the template for the Shiny App page including html files for `Home` and `About` page. Cleaned, tidied and visualized data of veterinary hospitals and dog runs area. Calculated and displayed estimated distance and time taken to the nearest hospital and park from any given location. Integrated and tidied other teammates’ work
 	
 	+ Lyu, Wenfeng: Data cleaning, design the statistics tab and the content format, including the popular nyc dog names by year bar chart, as well as the popular dog breed plotly bar chart. Write up the introduction & R markdown text files, and gathering interesting dog logo!
+	
+	+ Zhu, Huizhe: Created heat map visualization; Monitored project flow and meeting agenda; Quality control, structuring and restructuring app's organization, text polishing; Data collection and Cleaning
 	
 	+ Chen, Shenhan: Data collecting and cleaning for dog bite records, created and generated statistical data summary, designing homepage; Presented project results to over 70 audience.
 
