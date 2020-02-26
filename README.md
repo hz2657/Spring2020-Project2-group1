@@ -57,8 +57,8 @@ proj/
 ├── lib/
 ├── data/
 ├── doc/
-└── output/
-└── rsconnect/
+├── output/
+├── rsconnect/
 └── www/
 ```
 
