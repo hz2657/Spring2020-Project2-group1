@@ -1,6 +1,7 @@
 # Project 2: Shiny App Development Version 2.0
 
 ![screenshot](doc/figs/home.png)
+![screenshot](C:\Users\Huizhe ZHU\Desktop/home.png)
 ![screenshot](doc/figs/dog.park.png)
 ![screenshot](doc/figs/dog.bite.png)
 ![screenshot](doc/figs/dog_stat.png)
@@ -11,7 +12,7 @@ Term: Spring 2020
 
 + Team # 1
 
-+ Shiny Link : 
++ Shiny Link : https://loving-dogs.shinyapps.io/Group1_Project2/
 
 + **Team Members**: 
     + Feng, Kangli (Team Leader)
@@ -41,7 +42,7 @@ All team members approve our work presented in this GitHub repository including 
 
 + **Data Sets Used**:
 
-We used data from NYC Open Data, as well as other open data sources from Github and Kaggle
+We used data from NYC Open Data, as well as other open data sources from Google, Github, and Kaggle
 
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
