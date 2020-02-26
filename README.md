@@ -1,4 +1,4 @@
-# Project 2: Shiny App Development Version 2.0
+# Project 2: Shiny App Development
 
 ![screenshot](doc/figs/home1.png)
 ![screenshot](doc/figs/dog.park.png)
