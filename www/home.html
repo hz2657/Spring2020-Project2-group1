@@ -1,0 +1,106 @@
+<!-- Carousel
+================================================== -->
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+  <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="images/dog_nyc.jpg" alt="1">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1 class="fit-head">LOOKING FOR NYC's DOG-FRIENDLY NEIGHBORHOODS?</h1>
+          <p class="fit-text">Use our interactive map to get you all covered.</p>
+          <p>
+            <a class="btn btn-lg btn-primary" onclick="$('li:eq(2) a').tab('show');" role="button">Get started now &raquo;</a>
+          </p>
+        </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/dog_nyc1.jpg" alt="2">
+      <div class="container">
+  <div class="carousel-caption">
+    <h1 class="fit-head">GET AN OVERVIEW OF NYC DOGS</h1>
+    <p class="fit-text">See our statistical review of dog bite records and popular dog breed & names.</p>
+    <a class="btn btn-lg btn-primary" onclick="$('li:eq(3) a').tab('show');" role="button">Get started now &raquo;</a>
+    <!-- <p>
+      <form>
+        <div class="form-group">
+          <input id="addr1" type="text" class="form-control" placeholder="Search now...">
+          <input id="addr2" type="text" class="form-control" placeholder="Search now...">
+        </div>
+      </form>
+    </p> -->
+  </div>
+      </div>
+    </div>
+    <div class="item">
+      <img src="images/nyc_dog3.jpg" alt="3">
+      <div class="container">
+        <div class="carousel-caption">
+          <h1 class="fit-head">GIVE YOUR DOGS THE BEST CARE</h1>
+          <p class="fit-text">We have already identified nearest dog parks & veterinary hospitals around you.</p>
+          <p>
+            <a class="btn btn-lg btn-primary" onclick="$('li:eq(1) a').tab('show');" role="button">Get started now &raquo;</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev"><span class="glyphicon glyphicon-chevron-left"></span></a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next"><span class="glyphicon glyphicon-chevron-right"></span></a>
+</div>
+<!-- /.carousel -->
+
+<div class="container marketing">
+  <!-- Three columns of text below the carousel -->
+  <div class="row">
+  <div class="container">
+    <h1 class="text-center fit-h1" style="font-size: 4em; margin-bottom: 30px;">Dog lovers, We get you covered!</h1>
+  </div>
+  </div>
+
+  <div class="row app-links">
+  <div class="col-md-4">
+    <img src="images/dog1.png" width="50%" alt="novice">
+    <h2>PARKS<br>VETERINARY</h2>
+    <p>You are new to New York City? We are here to help you out!</p>
+    <a class="btn btn-primary" onclick="$('li:eq(1) a').tab('show');" role="button">View our interactive map &raquo;</a>
+  </div><!-- /.col-md-4 -->
+  <div class="col-md-4">
+    <img src="images/dog2.png" width="50%" alt="veteran">
+    <h2>DOGS<br>DENSITY</h2>
+    <p>You can find the most dog-friendly neighborhoods and avoid the most frequent dog-biting areas. </p>
+    <a class="btn btn-primary" onclick="$('li:eq(2) a').tab('show');" role="button">View our heat map &raquo;</a>
+  </div><!-- /.col-md-4 -->
+  <div class="col-md-4">
+    <img src="images/dog3.png" width="50%" alt="evaluator">
+    <h2>STATISTICAL REVIEW</h2>
+    <p>Get a summary on dog bite records and popular names & breed.</p>
+    <a class="btn btn-primary" onclick="$('li:eq(3) a').tab('show');" role="button">View our statistical review &raquo;</a>
+  </div><!-- /.col-md-4 -->
+  </div><!-- /.row -->
+
+
+  <!-- START THE FEATURETTES -->
+  <h1>PROJECT BACKGROUND</h1>
+  <p>In a city of cramped living quarters, fifth-floor walk-ups and limited access to outdoor space, you may consider pets is a tough sell for New York City residents. However, approximately 425,000 dogs live in NYC, there are more dogs than the number of citizens in Oakland, CA.</p>
+  <p>Our project aims to help you uncover the most dog friendly neighborhoods in NYC. Besides, we prepared you the extensive dog-related information, such as dog facilities, dog parks and off-leash areas, dog hospitals and veterinarians etc. If you consider to move in neighborhoods with fewer dogs, we also identified dog bites accidents for you on NYC map.</p>
+  <p>Our data is acquired from NYC Open Data, Google resources, Github, and Kaggle. Our summary statistics contains the visualized data of the most popular dog breeds and names in NYC. </p>
+  
+  <h1>USER GUIDE</h1>
+  <p>Explore our ShinyApp:</p>
+  <p>1.    Click the "Dog parks & hospitals" tab, you can find the nearest dog parks to walk your dogs, with the walking distance and estimated transportation time available. Don't panic when your dog get sick, use our map to find the nearest dog hospitals. </p>
+  <p>2.    Click the "Dog Density Map" tab, in the 'Dog license map', you can find the dog license information distributed by area. In 'Dog Density Map', you can find the most dog friendly neighborhoods as well as the specific number of dogs in those areas. Click the 'Dog Bite Map', you can view information about the dog bites accidents by neighborhoods and check by time. </p>
+  <p>3.    Click the "Summary Statistics" tab, you can view the statistical results about NYC dogs' names and breeds. There are settings available for you to customize the plots. Scroll down and try them out!</p>
+  <p>4.    Other related news and articles can be found in the remaining tabs. Enjoy the journey with us. </p>
+
+<br>
+<br>
+
+</div>
+<!-- /END THE FEATURETTES -->
