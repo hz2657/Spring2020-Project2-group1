@@ -14,8 +14,8 @@ Term: Spring 2020
 + Shiny Link : 
 
 + **Team Members**: 
+        + Feng, Kangli (Team Leader)
 	+ Du, Jinxiao
-	+ Feng, Kangli
 	+ Zhu, Huize
 	+ Lyu, Wenfeng
 	+ Chen, Shenhan (Presenter)
@@ -27,7 +27,7 @@ To develop this project, we referenced the data on NYC Open Data, as well as oth
 
 + **Contribution statement**:
 
-All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail as follows:
+All team members approve our work presented in this GitHub repository including this contributions statement. The contribution detail as follows:
 
 	+ Du, Jinxiao: 
 	
