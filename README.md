@@ -1,4 +1,4 @@
-# Project 2: Shiny App Development
+# Project 2: Shiny App Development, for dog owners in NYC
 
 ![screenshot](doc/figs/home1.png)
 ![screenshot](doc/figs/dog.park1.JPG)
